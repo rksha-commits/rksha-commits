@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5E9&height=200&section=header&text=Raksha%20Chahar&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Engineering%20%7C%20Generative%20AI%20%7C%20Building%20in%20Public&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Raksha Chahar profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5E9&height=200&section=header&text=Raksha%20 &fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Engineering%20%7C%20Generative%20AI%20%7C%20Building%20in%20Public&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Raksha   profile banner"/>
 
 ### Building ideas into intelligent applications. 🚀
 
 **AI/ML Engineering Student · Generative AI · Open Source**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://raksha-portfolio-xi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raksha-chahar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raksha- )
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rksha-commits)
 
 </div>
@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-Hey, I'm **Raksha Chahar**, a B.Tech student specializing in Artificial Intelligence and Machine Learning.
+Hey, I'm **Raksha  **, a B.Tech student specializing in Artificial Intelligence and Machine Learning.
 
 I'm interested in building practical applications that combine AI, software engineering, and automation. I enjoy experimenting with new technologies, turning ideas into working prototypes, and learning by building.
 
@@ -68,7 +68,7 @@ A PDF-based application designed to help users query scientific papers and retri
 
 **Tech:** Python · LangChain · FAISS · Sentence Transformers · Streamlit
 
-[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/rakshachahar/scientific-literature-explorer-rag)
+[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/raksha /scientific-literature-explorer-rag)
 
 ### 02 · Raksha Portfolio
 
@@ -79,7 +79,7 @@ A personal developer portfolio featuring a desktop-style interface, project expl
 **Tech:** TypeScript · Interactive UI · AI Integration
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://raksha-portfolio-xi.vercel.app)
-[![View Repository](https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/rakshachahar/raksha-portfolio)
+[![View Repository](https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/raksha /raksha-portfolio)
 
 ### 03 · Community Pulse AI
 
@@ -89,7 +89,7 @@ An AI-powered platform that analyzes citizen complaints to identify severity, pr
 
 **Tech:** TypeScript · Google Gemini
 
-[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/rakshachahar/community-pulse-ai)
+[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/raksha /community-pulse-ai)
 
 ### 04 · Anonymous Safety Intelligence System
 
@@ -99,7 +99,7 @@ A platform designed around anonymous incident reporting, geospatial analysis, sa
 
 **Tech:** TypeScript · Geospatial Analysis · Safety Analytics
 
-[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/rakshachahar/anonymous-safety-intelligence-system)
+[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/raksha /anonymous-safety-intelligence-system)
 
 ---
 
@@ -132,7 +132,7 @@ I'm always interested in learning from other developers, collaborating on meanin
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raksha%20Chahar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raksha-chahar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raksha%20 -0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raksha- )
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0EA5E9?style=for-the-badge&logo=vercel)](https://raksha-portfolio-xi.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-rksha--commits-181717?style=for-the-badge&logo=github)](https://github.com/rksha-commits)
 
