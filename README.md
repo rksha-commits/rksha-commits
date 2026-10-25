@@ -92,6 +92,9 @@ A selection of projects I've explored and developed across AI, information retri
       </p>
       <p><strong>Tech:</strong> Python, LangChain, FAISS, Sentence Transformers, Streamlit</p>
       <p>
+        <a href="[https://scientific-literature-explorer-rag.streamlit.app/]">Live Project →</a>
+        <br/>
+      <p>
         <a href="https://github.com/rakshachahar/scientific-literature-explorer-rag">View Repository →</a>
       </p>
     </td>
